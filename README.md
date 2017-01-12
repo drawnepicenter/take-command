@@ -14,8 +14,8 @@ The game project got put on the back burner but I stayed on my Javascript kick. 
 
 The end result is 3 separate utilities, two of which are based on previous Ruby projects.
 
-- [leximaven](https://github.com/drawnepicenter/) - for understanding and manipulating the English language,
+- [leximaven](https://github.com/drawnepicenter/leximaven) - for understanding and manipulating the English language,
 - [iloa](https://github.com/drawnepicenter/iloa) - for searching repositories of knowledge, and
--  [toloko](https://github.com/drawnepicenter/toloko) - for translating words.
+- [toloko](https://github.com/drawnepicenter/toloko) - for translating words.
 
 They aim to follow the Unix philosophy of "do one thing well". My hope is that others have as much fun hacking language and knowledge as I do.
